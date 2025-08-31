@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/logos/Garage32.png" alt="Garage32 logo"/>
 </p>
 
-<p align="center">
-  <b>A Minecraft CEM Texture Pack</b>
-</p>
+<h2 align="center"><b>A Minecraft CEM Texture Pack</b></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/TakumiAE86.gif" alt="Takumi AE86 car gif" width="500"/>
