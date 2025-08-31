@@ -1,0 +1,25 @@
+{
+    "item.armor.equip_generic":   {"sounds": ["mgs:common/silence"], "replace":true},
+	{
+    "ssc.slenderman.death" : {
+        "subtitle": "Player Killed By Slenderman",
+        "sounds":[
+            "slenderman/slendermandeath"
+        ]
+    },
+
+    "ssc.slenderman.ambient" : {
+        "subtitle": "Slenderman",
+        "sounds":[
+            "slenderman/slendermanambient"
+        ]
+    },
+
+    "ssc.slenderman.look" : {
+    "subtitle": "Player Looked At Slenderman",
+    "sounds":[
+        "slenderman/slendermanlook"
+
+        ]
+    }
+}
