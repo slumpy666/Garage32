@@ -92,7 +92,7 @@ Entertainment collective & creative input</a>
 - [Tim Kang](https://www.instagram.com/slug_7/)
 - [Tuvshin Dashteren](https://www.linkedin.com/in/tuvshindash/)
 - [Justin Reid](https://www.linkedin.com/in/justin-mreid/)
-- Thomas Zhou
+- Thomas Zou
 - Ian Almeda
 - [Jorge Manuel Torre](https://github.com/slumpy666)
 
