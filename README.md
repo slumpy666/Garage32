@@ -100,7 +100,7 @@ This project was made possible with the help of:
 </p>
 
 <p align="center">
-Entertainment collective & creative input</a>
+Entertainment company & creative input</a>
 </p>
 
 <p align="center">
