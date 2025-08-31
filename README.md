@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <span style="font-size:40px;">➡➡➡ <a href="GARAGE.md">Enter Garage</a> ⬅⬅⬅</span>
+  <span style="font-size:40px;">➡➡➡ <a href="https://github.com/slumpy666/Garage32/blob/main/GARAGE.md">Enter Garage</a> ⬅⬅⬅</span>
 </p>
+
 
 <div style="margin-top:40px;"></div>
 
@@ -41,6 +42,8 @@ Models and textures were designed by **Tim Kang** ([slug_7](https://www.instagra
 
 <div style="margin-top:80px;"></div>
 
+<p align="center"> <a href="https://github.com/slumpy666/Garage32/blob/main/GARAGE.md"><b>See all cars</b></a> </p>
+
 ## ⛏️ How to Summon
 
 You can summon any of the cars in-game by renaming a boat (or using commands).  
@@ -59,9 +62,6 @@ Example:
 ```
 
 This will summon **Takumi’s AE86** using a spruce boat.
-
-
-<p align="center"> <a href="GARAGE.md"><b>See all cars</b></a> </p>
 
 <div style="margin-top:80px;"></div>
 
