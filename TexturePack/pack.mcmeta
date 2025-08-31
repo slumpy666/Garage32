@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "§c男はコーナーでカッコ良くキメる！\n§bBy sys32ent",
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 999
+    }
+  }
+}
