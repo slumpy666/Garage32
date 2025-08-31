@@ -1,15 +1,15 @@
 <p align="center">
-  <img src=".assets/logos//Garage32.png"/>
+  <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/logos/Garage32.png" alt="Garage32 logo"/>
 </p>
 
 <h2 align="center"><b>A Minecraft CEM Texture Pack</b></h2>
 
 <p align="center">
-  <img src=".assets/gifs/TakumiAE86.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/TakumiAE86.gif" alt="Takumi AE86 car gif" width="500"/>
 </p>
 
 <p align="center">
-  <span style="font-size:40px;">➡➡➡ <a href=".assets/GARAGE.md">Enter Garage</a> ⬅⬅⬅</span>
+  <span style="font-size:40px;">➡➡➡ <a href="GARAGE.md">Enter Garage</a> ⬅⬅⬅</span>
 </p>
 
 <div style="margin-top:40px;"></div>
@@ -28,16 +28,40 @@ Models and textures were designed by **Tim Kang** ([slug_7](https://www.instagra
 
 ## 📸 Screenshots
 
-| <img src=".assets/screenshots/roster.png" width="250"/> | <img src=".assets/screenshots/office.png" width="250"/> | <img src=".assets/screenshots/mcd.png" width="250"/> |
+| <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/screenshots/roster.png" alt="Minecraft Garage32 car roster" width="250"/> | <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/screenshots/office.png" alt="Minecraft Garage32 office interior" width="250"/> | <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/screenshots/mcd.png" alt="Minecraft Garage32 McDonald's build" width="250"/> |
 |---------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
 
 <div style="margin-top:80px;"></div>
 
 ## 🚘 Preview
 
-| <img src=".assets/gifs/BlueMiataAriosKit.gif" width="180"/> | <img src=".assets/gifs/MiataVip.gif" width="180"/> | <img src=".assets/gifs/UeoAE86.gif" width="180"/> | <img src=".assets/gifs/SystemMiataAriosKit.gif" width="180"/> | <img src=".assets/gifs/HibinoLevinAE86.gif" width="180"/> |
+| <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/BlueMiataAriosKit.gif" alt="Blue Miata with Arios Kit" width="180"/> | <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/MiataVip.gif" alt="Miata VIP car" width="180"/> | <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/UeoAE86.gif" alt="Ueo AE86 car" width="180"/> | <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/SystemMiataAriosKit.gif" alt="System Miata with Arios Kit" width="180"/> | <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/gifs/HibinoLevinAE86.gif" alt="Hibino Levin AE86 car" width="180"/> |
 |:----------------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|:------------------------------------------------------------:|:----------------------------------------------------------:|
 | <p align="center">Blue Miata<br>(Arios Kit)</p>            | <p align="center">Miata VIP</p>                   | <p align="center">Ueo AE86</p>                   | <p align="center">System Miata<br>(Arios Kit)</p>            | <p align="center">Hibino Levin AE86</p>                   |
+
+<div style="margin-top:80px;"></div>
+
+## ⛏️ How to Summon
+
+You can summon any of the cars in-game by renaming a boat (or using commands).  
+Here’s a **general template** you can use:
+
+```mc
+/summon boat ~ ~ ~ {Type:"<wood_type>",CustomName:"\"<ModelName>\""}
+```
+
+- Replace `<wood_type>` with one of: `acacia`, `birch`, `spruce`  
+- Replace `<ModelName>` with the exact name tied to the texture (e.g. `TakumiAE86`, `BlueMiataAriosKit`, `MiataVip`)  
+
+Example:
+```mc
+/summon boat ~ ~ ~ {Type:"spruce",CustomName:"\"TakumiAE86\""}
+```
+
+This will summon **Takumi’s AE86** using a spruce boat.
+
+
+<p align="center"> <a href="GARAGE.md"><b>See all cars</b></a> </p>
 
 <div style="margin-top:80px;"></div>
 
@@ -70,7 +94,7 @@ Models and textures were designed by **Tim Kang** ([slug_7](https://www.instagra
 This project was made possible with the help of:
 
 <p align="center">
-  <img src=".assets/logos/syslogo.png"/>
+  <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/logos/syslogo.png" alt="Sys32 Entertainment logo"/>
 </p>
 
 <p align="center">
@@ -79,15 +103,12 @@ Entertainment collective & creative input</a>
 
 <p align="center">
   <a href="https://www.youtube.com/@sys32ent">
-    <img src=".assets/logos/sys32entYT.jpg" width="80" style="border-radius:50%; margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/logos/sys32entYT.jpg" alt="Sys32 Entertainment YouTube logo" width="80" style="border-radius:50%; margin-right:10px;"/>
   </a>
   <a href="https://www.instagram.com/sys32ent/">
-    <img src=".assets/logos/sys32entInsta.jpg" width="80" style="border-radius:50%;"/>
+    <img src="https://raw.githubusercontent.com/slumpy666/Garage32/main/.assets/logos/sys32entInsta.jpg" alt="Sys32 Entertainment Instagram logo" width="80" style="border-radius:50%;"/>
   </a>
 </p>
-
-
-
 
 - [Tim Kang](https://www.instagram.com/slug_7/)
 - [Tuvshin Dashtseren](https://www.linkedin.com/in/tuvshindash/)

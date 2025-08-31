@@ -1,4 +1,4 @@
-[⬅ Back to Home](../README.md)
+[⬅ Back to Home](README.md)
 # <span id="garage"></span>Garage
 
 Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slug_7/))
@@ -25,6 +25,28 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 - [AE86](#ae86)
 - [Levin AE86](#levin-ae86)
 
+<div style="margin-top:80px;"></div>
+
+# ⛏️ How to Summon
+
+You can summon any of the cars in-game by renaming a boat (or using commands).  
+Here’s a **general template** you can use:
+
+```mc
+/summon boat ~ ~ ~ {Type:"<wood_type>",CustomName:"\"<ModelName>\""}
+```
+
+- Replace `<wood_type>` with one of: `acacia`, `birch`, `spruce`  
+- Replace `<ModelName>` with the exact name tied to the texture (e.g. `TakumiAE86`, `BlueMiataAriosKit`, `MiataVip`)  
+
+Example:
+```mc
+/summon boat ~ ~ ~ {Type:"spruce",CustomName:"\"TakumiAE86\""}
+```
+
+This will summon **Takumi’s AE86** using a spruce boat.
+
+<div style="margin-top:80px;"></div>
 
 <span style="font-size:30px">Spruce</span>
 
@@ -38,7 +60,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/BlueMiataAriosKit.gif" width="500"/>
+  <img src=".assets/gifs/BlueMiataAriosKit.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -51,7 +73,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/MiataVip.gif" width="500"/>
+  <img src=".assets/gifs/MiataVip.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -64,7 +86,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/UeoAE86.gif" width="500"/>
+  <img src=".assets/gifs/UeoAE86.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -77,7 +99,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/SystemMiataAriosKit.gif" width="500"/>
+  <img src=".assets/gifs/SystemMiataAriosKit.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -90,7 +112,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/HibinoLevinAE86.gif" width="500"/>
+  <img src=".assets/gifs/HibinoLevinAE86.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -103,7 +125,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/Solara.gif" width="500"/>
+  <img src=".assets/gifs/Solara.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -116,7 +138,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/Solara32.gif" width="500"/>
+  <img src=".assets/gifs/Solara32.gif" width="500"/>
 </p>
 
 
@@ -132,7 +154,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/TrackMiata.gif" width="500"/>
+  <img src=".assets/gifs/TrackMiata.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -145,7 +167,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/GreenUeoAE86.gif" width="500"/>
+  <img src=".assets/gifs/GreenUeoAE86.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -158,7 +180,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/PurpleTrackMiata.gif" width="500"/>
+  <img src=".assets/gifs/PurpleTrackMiata.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -171,7 +193,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/YellowMiataAriosKit.gif" width="500"/>
+  <img src=".assets/gifs/YellowMiataAriosKit.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -184,7 +206,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/TakumiAE86.gif" width="500"/>
+  <img src=".assets/gifs/TakumiAE86.gif" width="500"/>
 </p>
 
 
@@ -200,7 +222,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/RedMiataLipKit.gif" width="500"/>
+  <img src=".assets/gifs/RedMiataLipKit.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -213,7 +235,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/YellowMiataLipKit.gif" width="500"/>
+  <img src=".assets/gifs/YellowMiataLipKit.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -226,7 +248,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/AE86.gif" width="500"/>
+  <img src=".assets/gifs/AE86.gif" width="500"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -239,7 +261,7 @@ Models and textures designed by Tim Kang ([slug_7](https://www.instagram.com/slu
 ```
 
 <p align="center">
-  <img src="gifs/LevinAE86.gif" width="500"/>
+  <img src=".assets/gifs/LevinAE86.gif" width="500"/>
 </p>
 
 <p align="center">
