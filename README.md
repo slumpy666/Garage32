@@ -5,7 +5,7 @@
 <h2 align="center"><b>A Minecraft CEM Texture Pack</b></h2>
 
 <p align="center">
-  <img src=".assets/gifs/main_AE86.gif"/>
+  <img src=".assets/gifs/TakumiAE86.gif" width="500"/>
 </p>
 
 <p align="center">
