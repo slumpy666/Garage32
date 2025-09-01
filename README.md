@@ -116,7 +116,7 @@ Entertainment company & creative input</a>
 - [Tuvshin Dashtseren](https://www.linkedin.com/in/tuvshindash/)
 - [Justin Reid](https://www.linkedin.com/in/justin-mreid/)
 - Thomas Zou
-- Ian Almeda
+- [Ian Almeda](https://www.instagram.com/blisstengoku/)
 - [Jorge Manuel Torre](https://github.com/slumpy666)
 
 ## 📬 Contact
